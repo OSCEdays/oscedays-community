@@ -8,3 +8,5 @@ The overall objective is to stimulate a debate and practical action towards a Ci
 # Background
 There is growing consensus that we must transition towards a circular economy in order to mitigate serious environmental and resource shortage challenges which modern civilization faces. While there has been a global drive to migrate towards a circular economy, much less attention has been given to the question of what type of circular economy is desirable. In particular, it is entirely possible to circularize the entire economy and maintain the extreme levels of global wealth inequality. An open source circular economy can address both environmental and socio-economic injustice simultaneously by democratizing the means of production.
 
+# Contribute
+Click on CONTRIBUTE.md to find out how to contribute. or go directly to the ISSUES tab and select an issue to contribute to. Message us at our [gitter channel](https://gitter.im/oscedays-community/)
